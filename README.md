@@ -9,7 +9,7 @@ This repository documents the central measurement server and the four access pro
 - mobile 5G
 - LEO satellite (Starlink)
 
-The workbooks used for the manuscript are in `Data/`. They cover the network KPI tables, the outlier and availability audit, application QoE, YouTube and Netflix, and the Google UVQ scores for GoChat and BOTIM.
+The workbooks used for the manuscript are in `Data/`. They cover the network KPI tables, the outlier and availability audit, application QoE, YouTube and Netflix, and the Google UVQ scores for GoChat and BOTIM. The raw probe logs are there too: `Data/data.zip` for 4–6 September, and `Data/new_data.zip` for the later fiber run.
 
 ## What the platform does
 
