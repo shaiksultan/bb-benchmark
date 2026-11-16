@@ -25,6 +25,7 @@ Each access network runs the same client software against one central server. Th
 | [September 2026 campaign](docs/03-campaign-2026-09.md) | What the 4–6 September network files show |
 | [Application QoE, YouTube, Netflix, UVQ](docs/05-application-qoe.md) | Application timing, OTT playback, and Google UVQ |
 | [Reply for the VP](docs/VP-REPLY.md) | Network and application answers for the white paper |
+| [24-hour top-up setup](docs/06-topup-setup.md) | How to install, configure, and run the follow-up campaign |
 
 ## Campaign in one paragraph
 
