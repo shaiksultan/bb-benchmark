@@ -9,72 +9,7 @@ This repository documents the central measurement server and the four access pro
 - mobile 5G
 - LEO satellite (Starlink)
 
-## Files in this repo
-
-| File | What it is |
-| --- | --- |
-| [Data/data.zip](Data/data.zip) | Raw probe logs, 4–6 September 2026: fiber, fixed wireless, mobile, and LEO |
-| [topup-24h.zip](topup-24h.zip) | 24-hour follow-up scripts. The same files are also in [topup-24h/](topup-24h/) |
-| [Data/network-kpi-timestamp.xlsx](Data/network-kpi-timestamp.xlsx) | Network KPIs with timestamps, after the 1.5×IQR screen |
-| [Data/network-kpi-outliers-availability.xlsx](Data/network-kpi-outliers-availability.xlsx) | Outlier candidates and the availability log, including failed pings |
-| [Data/application-qoe.xlsx](Data/application-qoe.xlsx) | Application timing for social, messaging, calling, and Teams |
-| [Data/youtube-netflix-ott.xlsx](Data/youtube-netflix-ott.xlsx) | YouTube and Netflix playback runs |
-| [Data/video-quality-uvq.xlsx](Data/video-quality-uvq.xlsx) | GoChat and BOTIM video scores from Google UVQ |
-
-`sample-data/` inside the top-up folder shows the column layout. Those rows are placeholders, not measurements.
-
-## KPIs the scripts record
-
-Network, written by the probe scripts:
-
-- iperf3 download and upload
-- Round-trip time: average, P50, P95, P99, and round-trip time while iperf3 is running (top-up only)
-- UDP jitter and UDP packet loss
-- Ping loss and probe success. Every failed ping stays in the file.
-- DNS response time
-- TCP connect, TLS handshake, and time to first byte. TLS is the time after TCP, from curl.
-- Voice-pattern delay, jitter, loss, and an estimated MOS from delay and loss. This is not a listening score.
-- Gaming-pattern delay, jitter, and loss
-- Ookla download, upload, ping, and server id
-- SIPp call setup toward the lab server
-
-Application and video, stored in the workbooks rather than in the probe script:
-
-- Facebook, Instagram, X, TikTok, WhatsApp, BOTIM, GoChat, Teams join, and application YouTube timing
-- YouTube playback from the player’s Stats for Nerds panel, kept separate from the application YouTube timing
-- Netflix playback and the player-reported VMAF score
-- GoChat and BOTIM Google UVQ scores
-
-The top-up script does not delete outliers. Publish the unfiltered rows. A 1.5×IQR screen, if used, is a later check and is applied per network and per KPI.
-
-## Install the top-up
-
-Match the lab server on every probe: Ubuntu 24.04.3, iperf 3.16, curl 8.5.0, Python 3.12, SIPp 3.7.2, Ookla Speedtest CLI 1.2.0.84. Cloud VMs need iperf 3.16 only.
-
-```bash
-unzip topup-24h.zip
-cd topup-24h
-chmod +x *.sh
-./INSTALL_CLIENT.sh          # each probe
-./INSTALL_SERVER.sh lab      # lab server
-./INSTALL_SERVER.sh cloud    # UAE VM and Europe VM
-./write_versions.sh          # must print VERSIONS OK
-```
-
-Set `LAB_HOST`, `UAE_HOST`, and `EU_HOST` in `topup.conf`. Set `LINK` and `DEVICE` in each file under `paths/`. Open TCP and UDP 5201–5204 and ICMP on all three servers, and UDP 5061–5064 on the lab server.
-
-```bash
-./START_LAB_SERVER.sh
-./START_CLOUD_SERVER.sh
-./RUN_TOPUP.sh paths/fiber.env
-./RUN_TOPUP.sh paths/fwa.env
-./RUN_TOPUP.sh paths/mobile.env
-./RUN_TOPUP.sh paths/leo.env
-```
-
-Timeouts are at the bottom of `topup.conf`. The full procedure, ports, and schedule are in [the top-up setup guide](docs/06-topup-setup.md).
-
-The September workbooks and the later fiber run are also under `Data/`.
+The probe logs, workbooks, and 24-hour top-up scripts are in the public repository [bb-benchmark-data](https://github.com/shaiksultan/bb-benchmark-data). This repository keeps the method notes only.
 
 ## What the platform does
 
@@ -90,7 +25,6 @@ Each access network runs the same client software against one central server. Th
 | [September 2026 campaign](docs/03-campaign-2026-09.md) | What the 4–6 September network files show |
 | [Application QoE, YouTube, Netflix, UVQ](docs/05-application-qoe.md) | Application timing, OTT playback, and Google UVQ |
 | [Reply for the VP](docs/VP-REPLY.md) | Network and application answers for the white paper |
-| [24-hour top-up setup](docs/06-topup-setup.md) | How to install, configure, and run the follow-up campaign |
 
 ## Campaign in one paragraph
 
