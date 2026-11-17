@@ -1,12 +1,14 @@
 # Application QoE, YouTube, Netflix, and Google UVQ
 
-These figures are calculated from the workbooks in the public repository [bb-benchmark-data](https://github.com/shaiksultan/bb-benchmark-data). Application timing has no statistical outlier removal. Network voice MOS is a separate estimate from UDP delay and loss. Google UVQ is an offline score of recorded video, not a listening test.
+These figures are calculated from the workbooks in the [`data/`](../data/) folder of this repository. Application timing has no statistical outlier removal. Network voice MOS is a separate estimate from UDP delay and loss. Google UVQ is an offline score of recorded video, not a listening test.
 
 | Workbook | What it holds |
 | --- | --- |
-| `data/application-qoe.xlsx` | Startup, first content, call setup, WhatsApp audio receipt, Teams join, and the separate application-campaign YouTube startup |
-| `data/youtube-netflix-ott.xlsx` | Five YouTube and five Netflix playback runs per access path |
-| `data/video-quality-uvq.xlsx` | Google UVQ and the lab composite score for GoChat and BOTIM recordings |
+| `data/Application_QOE_All.xlsx` | Startup, first content, call setup, WhatsApp audio receipt, Teams join, and related application timings |
+| `data/youtube_netflix_raw_Data_video_quality.xlsx` | YouTube and Netflix playback / video-quality raw fields per access path |
+| `data/GochatBotim_Google_UVQ.xlsx` | Google UVQ 1.5 scores for GoChat and BOTIM recordings |
+| `data/Final_Benchmark_Timestamp_Data.xlsx` | Timestamped network KPI workbook |
+| `data/data.zip` | Packaged raw probe CSVs for all four paths |
 
 The network KPI workbooks in the same folder are the probe campaign. They do not contain these application times.
 
