@@ -1,0 +1,634 @@
+timestamp,network,kpi_id,metric,sample_no,value,unit,status,target,http_code,page_title
+2026-09-05T06:59:47.139566+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,1,1.633,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T07:00:32.159712+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,1,,sec,FAIL,https://www.khaleejtimes.com/,,
+2026-09-05T07:00:32.413798+04:00,e& Mobile 5G,KPI-028,Transaction success,1,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T07:18:09.997122+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,1,1.769,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T07:18:11.704895+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,2,1.694,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T07:18:13.489721+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,3,1.773,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T07:18:58.500950+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,1,,sec,FAIL,https://www.khaleejtimes.com/,,
+2026-09-05T07:19:43.517053+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,2,,sec,FAIL,https://www.khaleejtimes.com/,,
+2026-09-05T07:19:46.830855+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,3,3.283,sec,PASS,https://www.khaleejtimes.com/,200,"Khaleej Times - Dubai News, UAE News, Gulf, News, Latest news, Arab news, Gulf News, Dubai Labour News"
+2026-09-05T07:19:58.551718+04:00,e& Mobile 5G,KPI-028,Transaction success,1,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T07:19:58.647988+04:00,e& Mobile 5G,KPI-028,Transaction success,2,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T07:19:58.737189+04:00,e& Mobile 5G,KPI-028,Transaction success,3,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T07:33:03.490511+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,1,1.691,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T07:33:05.103506+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,2,1.599,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T07:33:06.698679+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,3,1.582,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T07:33:51.709306+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,1,,sec,FAIL,https://www.khaleejtimes.com/,,
+2026-09-05T07:33:54.993245+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,2,3.262,sec,PASS,https://www.khaleejtimes.com/,200,"Khaleej Times - Dubai News, UAE News, Gulf, News, Latest news, Arab news, Gulf News, Dubai Labour News"
+2026-09-05T07:33:57.829654+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,3,2.802,sec,PASS,https://www.khaleejtimes.com/,200,"Khaleej Times - Dubai News, UAE News, Gulf, News, Latest news, Arab news, Gulf News, Dubai Labour News"
+2026-09-05T07:34:42.850699+04:00,e& Mobile 5G,KPI-028,Transaction success,1,0,%,FAIL,https://www.eand.ae/ar/index.html,
+2026-09-05T07:35:27.861071+04:00,e& Mobile 5G,KPI-028,Transaction success,2,0,%,FAIL,https://www.eand.ae/ar/index.html,
+2026-09-05T07:35:28.005109+04:00,e& Mobile 5G,KPI-028,Transaction success,3,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T07:48:33.228329+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,1,1.725,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T07:48:34.860551+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,2,1.61,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T07:48:36.504444+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,3,1.617,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T07:49:21.519502+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,1,,sec,FAIL,https://www.khaleejtimes.com/,,
+2026-09-05T07:50:06.535842+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,2,,sec,FAIL,https://www.khaleejtimes.com/,,
+2026-09-05T07:50:51.551302+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,3,,sec,FAIL,https://www.khaleejtimes.com/,,
+2026-09-05T07:50:51.739595+04:00,e& Mobile 5G,KPI-028,Transaction success,1,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T07:50:51.829258+04:00,e& Mobile 5G,KPI-028,Transaction success,2,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T07:50:51.933409+04:00,e& Mobile 5G,KPI-028,Transaction success,3,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T08:03:56.334996+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,1,1.739,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T08:03:57.990159+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,2,1.63,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T08:03:59.623602+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,3,1.614,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T08:04:44.636701+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,1,,sec,FAIL,https://www.khaleejtimes.com/,,
+2026-09-05T08:05:29.653147+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,2,,sec,FAIL,https://www.khaleejtimes.com/,,
+2026-09-05T08:06:14.668539+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,3,,sec,FAIL,https://www.khaleejtimes.com/,,
+2026-09-05T08:06:14.843307+04:00,e& Mobile 5G,KPI-028,Transaction success,1,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T08:06:14.954460+04:00,e& Mobile 5G,KPI-028,Transaction success,2,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T08:06:15.070445+04:00,e& Mobile 5G,KPI-028,Transaction success,3,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T08:19:13.673049+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,1,1.689,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T08:19:15.303741+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,2,1.607,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T08:19:16.935671+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,3,1.605,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T08:20:01.956176+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,1,,sec,FAIL,https://www.khaleejtimes.com/,,
+2026-09-05T08:20:04.993754+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,2,3.024,sec,PASS,https://www.khaleejtimes.com/,200,"Khaleej Times - Dubai News, UAE News, Gulf, News, Latest news, Arab news, Gulf News, Dubai Labour News"
+2026-09-05T08:20:07.888919+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,3,2.878,sec,PASS,https://www.khaleejtimes.com/,200,"Khaleej Times - Dubai News, UAE News, Gulf, News, Latest news, Arab news, Gulf News, Dubai Labour News"
+2026-09-05T08:20:08.014730+04:00,e& Mobile 5G,KPI-028,Transaction success,1,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T08:20:08.103353+04:00,e& Mobile 5G,KPI-028,Transaction success,2,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T08:20:08.199504+04:00,e& Mobile 5G,KPI-028,Transaction success,3,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T08:34:42.995710+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,1,1.741,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T08:34:44.645754+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,2,1.626,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T08:34:46.310251+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,3,1.633,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T08:35:31.329499+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,1,,sec,FAIL,https://www.khaleejtimes.com/,,
+2026-09-05T08:35:34.754741+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,2,3.391,sec,PASS,https://www.khaleejtimes.com/,200,"Khaleej Times - Dubai News, UAE News, Gulf, News, Latest news, Arab news, Gulf News, Dubai Labour News"
+2026-09-05T08:35:53.465353+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,3,18.669,sec,PASS,https://www.khaleejtimes.com/,200,"Khaleej Times - Dubai News, UAE News, Gulf, News, Latest news, Arab news, Gulf News, Dubai Labour News"
+2026-09-05T08:35:53.658790+04:00,e& Mobile 5G,KPI-028,Transaction success,1,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T08:35:53.775083+04:00,e& Mobile 5G,KPI-028,Transaction success,2,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T08:35:53.873709+04:00,e& Mobile 5G,KPI-028,Transaction success,3,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T08:49:58.710608+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,1,1.721,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T08:50:00.361457+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,2,1.63,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T08:50:01.990738+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,3,1.61,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T08:50:47.010855+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,1,,sec,FAIL,https://www.khaleejtimes.com/,,
+2026-09-05T08:50:50.786762+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,2,3.753,sec,PASS,https://www.khaleejtimes.com/,200,"Khaleej Times - Dubai News, UAE News, Gulf, News, Latest news, Arab news, Gulf News, Dubai Labour News"
+2026-09-05T08:50:53.663715+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,3,2.857,sec,PASS,https://www.khaleejtimes.com/,200,"Khaleej Times - Dubai News, UAE News, Gulf, News, Latest news, Arab news, Gulf News, Dubai Labour News"
+2026-09-05T08:50:53.810053+04:00,e& Mobile 5G,KPI-028,Transaction success,1,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T08:50:53.913547+04:00,e& Mobile 5G,KPI-028,Transaction success,2,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T08:50:54.022096+04:00,e& Mobile 5G,KPI-028,Transaction success,3,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T09:04:59.128305+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,1,1.709,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T09:05:00.772276+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,2,1.621,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T09:05:02.430498+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,3,1.633,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T09:05:47.448417+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,1,,sec,FAIL,https://www.khaleejtimes.com/,,
+2026-09-05T09:05:51.204074+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,2,3.731,sec,PASS,https://www.khaleejtimes.com/,200,"Khaleej Times - Dubai News, UAE News, Gulf, News, Latest news, Arab news, Gulf News, Dubai Labour News"
+2026-09-05T09:05:54.157456+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,3,2.937,sec,PASS,https://www.khaleejtimes.com/,200,"Khaleej Times - Dubai News, UAE News, Gulf, News, Latest news, Arab news, Gulf News, Dubai Labour News"
+2026-09-05T09:05:54.304677+04:00,e& Mobile 5G,KPI-028,Transaction success,1,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T09:05:54.412975+04:00,e& Mobile 5G,KPI-028,Transaction success,2,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T09:05:54.509244+04:00,e& Mobile 5G,KPI-028,Transaction success,3,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T09:20:23.895301+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,1,1.716,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T09:20:25.549825+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,2,1.628,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T09:20:27.220308+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,3,1.639,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T09:21:12.237961+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,1,,sec,FAIL,https://www.khaleejtimes.com/,,
+2026-09-05T09:21:16.560185+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,2,4.261,sec,PASS,https://www.khaleejtimes.com/,200,"Khaleej Times - Dubai News, UAE News, Gulf, News, Latest news, Arab news, Gulf News, Dubai Labour News"
+2026-09-05T09:21:19.482280+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,3,2.902,sec,PASS,https://www.khaleejtimes.com/,200,"Khaleej Times - Dubai News, UAE News, Gulf, News, Latest news, Arab news, Gulf News, Dubai Labour News"
+2026-09-05T09:22:04.491667+04:00,e& Mobile 5G,KPI-028,Transaction success,1,0,%,FAIL,https://www.eand.ae/ar/index.html,
+2026-09-05T09:22:40.376063+04:00,e& Mobile 5G,KPI-028,Transaction success,2,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T09:22:40.470034+04:00,e& Mobile 5G,KPI-028,Transaction success,3,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T09:35:45.468174+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,1,1.714,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T09:35:47.100234+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,2,1.618,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T09:35:48.752203+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,3,1.627,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T09:36:33.773871+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,1,,sec,FAIL,https://www.khaleejtimes.com/,,
+2026-09-05T09:36:43.301323+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,2,9.499,sec,PASS,https://www.khaleejtimes.com/,200,"Khaleej Times - Dubai News, UAE News, Gulf, News, Latest news, Arab news, Gulf News, Dubai Labour News"
+2026-09-05T09:36:46.290191+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,3,2.963,sec,PASS,https://www.khaleejtimes.com/,200,"Khaleej Times - Dubai News, UAE News, Gulf, News, Latest news, Arab news, Gulf News, Dubai Labour News"
+2026-09-05T09:36:46.445177+04:00,e& Mobile 5G,KPI-028,Transaction success,1,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T09:36:46.559443+04:00,e& Mobile 5G,KPI-028,Transaction success,2,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T09:36:46.678139+04:00,e& Mobile 5G,KPI-028,Transaction success,3,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T09:50:51.707626+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,1,1.698,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T09:50:53.326511+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,2,1.607,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T09:50:54.943973+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,3,1.603,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T09:50:59.144786+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,1,4.187,sec,PASS,https://www.khaleejtimes.com/,200,"Khaleej Times - Dubai News, UAE News, Gulf, News, Latest news, Arab news, Gulf News, Dubai Labour News"
+2026-09-05T09:51:32.036927+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,2,32.878,sec,PASS,https://www.khaleejtimes.com/,200,"Khaleej Times - Dubai News, UAE News, Gulf, News, Latest news, Arab news, Gulf News, Dubai Labour News"
+2026-09-05T09:51:35.086411+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,3,3.038,sec,PASS,https://www.khaleejtimes.com/,200,"Khaleej Times - Dubai News, UAE News, Gulf, News, Latest news, Arab news, Gulf News, Dubai Labour News"
+2026-09-05T09:51:35.207740+04:00,e& Mobile 5G,KPI-028,Transaction success,1,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T09:51:35.323332+04:00,e& Mobile 5G,KPI-028,Transaction success,2,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T09:51:35.425881+04:00,e& Mobile 5G,KPI-028,Transaction success,3,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T10:06:10.385175+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,1,1.737,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T10:06:12.023625+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,2,1.614,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T10:06:13.676164+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,3,1.623,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T10:06:58.697369+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,1,,sec,FAIL,https://www.khaleejtimes.com/,,
+2026-09-05T10:07:43.719606+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,2,,sec,FAIL,https://www.khaleejtimes.com/,,
+2026-09-05T10:07:47.296424+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,3,3.538,sec,PASS,https://www.khaleejtimes.com/,200,"Khaleej Times - Dubai News, UAE News, Gulf, News, Latest news, Arab news, Gulf News, Dubai Labour News"
+2026-09-05T10:07:47.430537+04:00,e& Mobile 5G,KPI-028,Transaction success,1,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T10:07:47.617668+04:00,e& Mobile 5G,KPI-028,Transaction success,2,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T10:07:47.729791+04:00,e& Mobile 5G,KPI-028,Transaction success,3,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T10:21:15.156855+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,1,1.724,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T10:21:16.804710+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,2,1.625,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T10:21:18.465802+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,3,1.629,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T10:22:03.487108+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,1,,sec,FAIL,https://www.khaleejtimes.com/,,
+2026-09-05T10:22:06.755123+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,2,3.25,sec,PASS,https://www.khaleejtimes.com/,200,"Khaleej Times - Dubai News, UAE News, Gulf, News, Latest news, Arab news, Gulf News, Dubai Labour News"
+2026-09-05T10:22:09.516101+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,3,2.738,sec,PASS,https://www.khaleejtimes.com/,200,"Khaleej Times - Dubai News, UAE News, Gulf, News, Latest news, Arab news, Gulf News, Dubai Labour News"
+2026-09-05T10:22:09.647318+04:00,e& Mobile 5G,KPI-028,Transaction success,1,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T10:22:09.760658+04:00,e& Mobile 5G,KPI-028,Transaction success,2,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T10:22:09.922165+04:00,e& Mobile 5G,KPI-028,Transaction success,3,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T10:36:44.886279+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,1,1.771,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T10:36:46.536647+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,2,1.627,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T10:36:48.213486+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,3,1.647,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T10:37:33.227082+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,1,,sec,FAIL,https://www.khaleejtimes.com/,,
+2026-09-05T10:37:36.347768+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,2,3.106,sec,PASS,https://www.khaleejtimes.com/,200,"Khaleej Times - Dubai News, UAE News, Gulf, News, Latest news, Arab news, Gulf News, Dubai Labour News"
+2026-09-05T10:38:21.356690+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,3,,sec,FAIL,https://www.khaleejtimes.com/,,
+2026-09-05T10:39:06.368918+04:00,e& Mobile 5G,KPI-028,Transaction success,1,0,%,FAIL,https://www.eand.ae/ar/index.html,
+2026-09-05T10:39:06.529262+04:00,e& Mobile 5G,KPI-028,Transaction success,2,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T10:39:06.651491+04:00,e& Mobile 5G,KPI-028,Transaction success,3,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T10:52:11.492335+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,1,1.702,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T10:52:13.144396+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,2,1.632,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T10:52:14.801835+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,3,1.625,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T10:52:59.820024+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,1,,sec,FAIL,https://www.khaleejtimes.com/,,
+2026-09-05T10:53:03.050099+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,2,3.209,sec,PASS,https://www.khaleejtimes.com/,200,"Khaleej Times - Dubai News, UAE News, Gulf, News, Latest news, Arab news, Gulf News, Dubai Labour News"
+2026-09-05T10:53:05.818980+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,3,2.748,sec,PASS,https://www.khaleejtimes.com/,200,"Khaleej Times - Dubai News, UAE News, Gulf, News, Latest news, Arab news, Gulf News, Dubai Labour News"
+2026-09-05T10:53:05.989873+04:00,e& Mobile 5G,KPI-028,Transaction success,1,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T10:53:06.097969+04:00,e& Mobile 5G,KPI-028,Transaction success,2,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T10:53:06.221790+04:00,e& Mobile 5G,KPI-028,Transaction success,3,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T11:07:11.341529+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,1,1.741,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T11:07:12.993115+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,2,1.628,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T11:07:14.670502+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,3,1.647,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T11:07:19.005882+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,1,4.314,sec,PASS,https://www.khaleejtimes.com/,200,"Khaleej Times - Dubai News, UAE News, Gulf, News, Latest news, Arab news, Gulf News, Dubai Labour News"
+2026-09-05T11:07:21.544749+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,2,2.524,sec,PASS,https://www.khaleejtimes.com/,200,"Khaleej Times - Dubai News, UAE News, Gulf, News, Latest news, Arab news, Gulf News, Dubai Labour News"
+2026-09-05T11:08:06.561546+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,3,,sec,FAIL,https://www.khaleejtimes.com/,,
+2026-09-05T11:08:06.714200+04:00,e& Mobile 5G,KPI-028,Transaction success,1,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T11:08:06.828989+04:00,e& Mobile 5G,KPI-028,Transaction success,2,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T11:08:06.956260+04:00,e& Mobile 5G,KPI-028,Transaction success,3,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T11:22:38.833150+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,1,1.724,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T11:22:40.486402+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,2,1.629,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T11:22:42.147997+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,3,1.631,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T11:23:27.167392+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,1,,sec,FAIL,https://www.khaleejtimes.com/,,
+2026-09-05T11:23:30.329243+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,2,3.139,sec,PASS,https://www.khaleejtimes.com/,200,"Khaleej Times - Dubai News, UAE News, Gulf, News, Latest news, Arab news, Gulf News, Dubai Labour News"
+2026-09-05T11:23:33.263592+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,3,2.91,sec,PASS,https://www.khaleejtimes.com/,200,"Khaleej Times - Dubai News, UAE News, Gulf, News, Latest news, Arab news, Gulf News, Dubai Labour News"
+2026-09-05T11:23:33.426303+04:00,e& Mobile 5G,KPI-028,Transaction success,1,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T11:23:33.531423+04:00,e& Mobile 5G,KPI-028,Transaction success,2,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T11:23:33.635759+04:00,e& Mobile 5G,KPI-028,Transaction success,3,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T11:37:38.599292+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,1,1.743,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T11:37:40.250805+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,2,1.629,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T11:37:41.904047+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,3,1.624,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T11:38:26.925738+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,1,,sec,FAIL,https://www.khaleejtimes.com/,,
+2026-09-05T11:39:11.949955+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,2,,sec,FAIL,https://www.khaleejtimes.com/,,
+2026-09-05T11:39:56.965018+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,3,,sec,FAIL,https://www.khaleejtimes.com/,,
+2026-09-05T11:39:57.135821+04:00,e& Mobile 5G,KPI-028,Transaction success,1,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T11:39:57.241598+04:00,e& Mobile 5G,KPI-028,Transaction success,2,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T11:39:57.405210+04:00,e& Mobile 5G,KPI-028,Transaction success,3,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T11:53:02.545013+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,1,1.746,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T11:53:04.204325+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,2,1.637,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T11:53:05.873535+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,3,1.641,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T11:53:50.892966+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,1,,sec,FAIL,https://www.khaleejtimes.com/,,
+2026-09-05T11:53:54.296424+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,2,3.38,sec,PASS,https://www.khaleejtimes.com/,200,"Khaleej Times - Dubai News, UAE News, Gulf, News, Latest news, Arab news, Gulf News, Dubai Labour News"
+2026-09-05T11:53:57.173786+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,3,2.856,sec,PASS,https://www.khaleejtimes.com/,200,"Khaleej Times - Dubai News, UAE News, Gulf, News, Latest news, Arab news, Gulf News, Dubai Labour News"
+2026-09-05T11:53:57.355765+04:00,e& Mobile 5G,KPI-028,Transaction success,1,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T11:53:57.487012+04:00,e& Mobile 5G,KPI-028,Transaction success,2,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T11:53:57.613276+04:00,e& Mobile 5G,KPI-028,Transaction success,3,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T12:08:02.529530+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,1,1.698,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T12:08:04.191893+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,2,1.645,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T12:08:05.842718+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,3,1.626,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T12:08:50.858916+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,1,,sec,FAIL,https://www.khaleejtimes.com/,,
+2026-09-05T12:09:04.541080+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,2,13.655,sec,PASS,https://www.khaleejtimes.com/,200,"Khaleej Times - Dubai News, UAE News, Gulf, News, Latest news, Arab news, Gulf News, Dubai Labour News"
+2026-09-05T12:09:07.272166+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,3,2.716,sec,PASS,https://www.khaleejtimes.com/,200,"Khaleej Times - Dubai News, UAE News, Gulf, News, Latest news, Arab news, Gulf News, Dubai Labour News"
+2026-09-05T12:09:07.429184+04:00,e& Mobile 5G,KPI-028,Transaction success,1,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T12:09:07.548532+04:00,e& Mobile 5G,KPI-028,Transaction success,2,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T12:09:07.649631+04:00,e& Mobile 5G,KPI-028,Transaction success,3,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T12:23:13.423949+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,1,1.694,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T12:23:15.057013+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,2,1.608,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T12:23:16.692113+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,3,1.608,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T12:24:01.715016+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,1,,sec,FAIL,https://www.khaleejtimes.com/,,
+2026-09-05T12:24:04.794964+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,2,3.059,sec,PASS,https://www.khaleejtimes.com/,200,"Khaleej Times - Dubai News, UAE News, Gulf, News, Latest news, Arab news, Gulf News, Dubai Labour News"
+2026-09-05T12:24:07.367373+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,3,2.557,sec,PASS,https://www.khaleejtimes.com/,200,"Khaleej Times - Dubai News, UAE News, Gulf, News, Latest news, Arab news, Gulf News, Dubai Labour News"
+2026-09-05T12:24:07.583530+04:00,e& Mobile 5G,KPI-028,Transaction success,1,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T12:24:07.688823+04:00,e& Mobile 5G,KPI-028,Transaction success,2,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T12:24:07.804444+04:00,e& Mobile 5G,KPI-028,Transaction success,3,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T12:38:42.907862+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,1,1.74,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T12:38:44.573784+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,2,1.651,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T12:38:46.229906+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,3,1.63,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T12:39:31.251332+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,1,,sec,FAIL,https://www.khaleejtimes.com/,,
+2026-09-05T12:39:40.464025+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,2,9.176,sec,PASS,https://www.khaleejtimes.com/,200,"Khaleej Times - Dubai News, UAE News, Gulf, News, Latest news, Arab news, Gulf News, Dubai Labour News"
+2026-09-05T12:39:43.614716+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,3,3.133,sec,PASS,https://www.khaleejtimes.com/,200,"Khaleej Times - Dubai News, UAE News, Gulf, News, Latest news, Arab news, Gulf News, Dubai Labour News"
+2026-09-05T12:39:43.784339+04:00,e& Mobile 5G,KPI-028,Transaction success,1,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T12:39:43.919577+04:00,e& Mobile 5G,KPI-028,Transaction success,2,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T12:39:44.051422+04:00,e& Mobile 5G,KPI-028,Transaction success,3,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T12:53:48.852387+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,1,1.718,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T12:53:50.513190+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,2,1.638,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T12:53:52.192007+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,3,1.644,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T12:54:37.212474+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,1,,sec,FAIL,https://www.khaleejtimes.com/,,
+2026-09-05T12:55:22.229105+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,2,,sec,FAIL,https://www.khaleejtimes.com/,,
+2026-09-05T12:56:07.253630+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,3,,sec,FAIL,https://www.khaleejtimes.com/,,
+2026-09-05T12:56:07.435294+04:00,e& Mobile 5G,KPI-028,Transaction success,1,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T12:56:07.554976+04:00,e& Mobile 5G,KPI-028,Transaction success,2,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T12:56:07.699581+04:00,e& Mobile 5G,KPI-028,Transaction success,3,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T13:09:14.846129+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,1,1.785,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T13:09:16.522793+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,2,1.65,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T13:09:18.209738+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,3,1.654,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T13:10:03.242361+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,1,,sec,FAIL,https://www.khaleejtimes.com/,,
+2026-09-05T13:10:09.043829+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,2,5.77,sec,PASS,https://www.khaleejtimes.com/,200,"Khaleej Times - Dubai News, UAE News, Gulf, News, Latest news, Arab news, Gulf News, Dubai Labour News"
+2026-09-05T13:10:12.410137+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,3,3.325,sec,PASS,https://www.khaleejtimes.com/,200,"Khaleej Times - Dubai News, UAE News, Gulf, News, Latest news, Arab news, Gulf News, Dubai Labour News"
+2026-09-05T13:10:12.605274+04:00,e& Mobile 5G,KPI-028,Transaction success,1,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T13:10:12.768167+04:00,e& Mobile 5G,KPI-028,Transaction success,2,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T13:10:12.924541+04:00,e& Mobile 5G,KPI-028,Transaction success,3,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T13:24:15.932673+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,1,1.781,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T13:24:17.633152+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,2,1.668,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T13:24:19.276766+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,3,1.619,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T13:24:24.339599+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,1,5.043,sec,PASS,https://www.khaleejtimes.com/,200,"Khaleej Times - Dubai News, UAE News, Gulf, News, Latest news, Arab news, Gulf News, Dubai Labour News"
+2026-09-05T13:25:09.375963+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,2,,sec,FAIL,https://www.khaleejtimes.com/,,
+2026-09-05T13:25:54.391621+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,3,,sec,FAIL,https://www.khaleejtimes.com/,,
+2026-09-05T13:25:54.654391+04:00,e& Mobile 5G,KPI-028,Transaction success,1,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T13:26:14.398259+04:00,e& Mobile 5G,KPI-028,Transaction success,2,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T13:26:15.544758+04:00,e& Mobile 5G,KPI-028,Transaction success,3,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T13:39:21.292183+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,1,1.799,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T13:39:22.938102+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,2,1.63,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T13:39:24.582164+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,3,1.627,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T13:40:09.597609+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,1,,sec,FAIL,https://www.khaleejtimes.com/,,
+2026-09-05T13:40:13.097254+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,2,3.448,sec,PASS,https://www.khaleejtimes.com/,200,"Khaleej Times - Dubai News, UAE News, Gulf, News, Latest news, Arab news, Gulf News, Dubai Labour News"
+2026-09-05T13:40:15.702954+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,3,2.581,sec,PASS,https://www.khaleejtimes.com/,200,"Khaleej Times - Dubai News, UAE News, Gulf, News, Latest news, Arab news, Gulf News, Dubai Labour News"
+2026-09-05T13:40:15.855732+04:00,e& Mobile 5G,KPI-028,Transaction success,1,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T13:40:16.000622+04:00,e& Mobile 5G,KPI-028,Transaction success,2,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T13:40:16.148417+04:00,e& Mobile 5G,KPI-028,Transaction success,3,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T13:54:21.218924+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,1,1.824,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T13:54:22.884681+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,2,1.644,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T13:54:24.538316+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,3,1.629,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T13:55:09.555953+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,1,,sec,FAIL,https://www.khaleejtimes.com/,,
+2026-09-05T13:55:54.577721+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,2,,sec,FAIL,https://www.khaleejtimes.com/,,
+2026-09-05T13:56:39.599488+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,3,,sec,FAIL,https://www.khaleejtimes.com/,,
+2026-09-05T13:56:39.797788+04:00,e& Mobile 5G,KPI-028,Transaction success,1,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T13:56:39.919951+04:00,e& Mobile 5G,KPI-028,Transaction success,2,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T13:56:40.300843+04:00,e& Mobile 5G,KPI-028,Transaction success,3,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T14:09:49.288349+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,1,1.81,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T14:09:51.016836+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,2,1.689,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T14:09:52.744389+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,3,1.684,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T14:10:37.783706+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,1,,sec,FAIL,https://www.khaleejtimes.com/,,
+2026-09-05T14:10:43.053675+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,2,5.227,sec,PASS,https://www.khaleejtimes.com/,200,"Khaleej Times - Dubai News, UAE News, Gulf, News, Latest news, Arab news, Gulf News, Dubai Labour News"
+2026-09-05T14:10:46.492083+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,3,3.395,sec,PASS,https://www.khaleejtimes.com/,200,"Khaleej Times - Dubai News, UAE News, Gulf, News, Latest news, Arab news, Gulf News, Dubai Labour News"
+2026-09-05T14:10:46.713855+04:00,e& Mobile 5G,KPI-028,Transaction success,1,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T14:10:46.852104+04:00,e& Mobile 5G,KPI-028,Transaction success,2,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T14:10:47.020101+04:00,e& Mobile 5G,KPI-028,Transaction success,3,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T14:24:46.506744+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,1,1.722,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T14:24:48.166840+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,2,1.635,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T14:24:49.854595+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,3,1.657,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T14:25:34.870844+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,1,,sec,FAIL,https://www.khaleejtimes.com/,,
+2026-09-05T14:26:19.884583+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,2,,sec,FAIL,https://www.khaleejtimes.com/,,
+2026-09-05T14:27:04.908001+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,3,,sec,FAIL,https://www.khaleejtimes.com/,,
+2026-09-05T14:27:05.057298+04:00,e& Mobile 5G,KPI-028,Transaction success,1,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T14:27:05.192751+04:00,e& Mobile 5G,KPI-028,Transaction success,2,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T14:27:05.309672+04:00,e& Mobile 5G,KPI-028,Transaction success,3,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T14:40:10.232481+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,1,1.734,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T14:40:11.906411+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,2,1.65,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T14:40:13.574645+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,3,1.637,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T14:40:58.597768+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,1,,sec,FAIL,https://www.khaleejtimes.com/,,
+2026-09-05T14:41:01.912893+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,2,3.293,sec,PASS,https://www.khaleejtimes.com/,200,"Khaleej Times - Dubai News, UAE News, Gulf, News, Latest news, Arab news, Gulf News, Dubai Labour News"
+2026-09-05T14:41:04.565149+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,3,2.63,sec,PASS,https://www.khaleejtimes.com/,200,"Khaleej Times - Dubai News, UAE News, Gulf, News, Latest news, Arab news, Gulf News, Dubai Labour News"
+2026-09-05T14:41:04.717169+04:00,e& Mobile 5G,KPI-028,Transaction success,1,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T14:41:04.849775+04:00,e& Mobile 5G,KPI-028,Transaction success,2,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T14:41:04.973153+04:00,e& Mobile 5G,KPI-028,Transaction success,3,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T14:55:41.614603+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,1,1.71,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T14:55:43.281009+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,2,1.617,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T14:55:44.941746+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,3,1.628,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T14:56:29.967215+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,1,,sec,FAIL,https://www.khaleejtimes.com/,,
+2026-09-05T14:56:42.825626+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,2,12.833,sec,PASS,https://www.khaleejtimes.com/,200,"Khaleej Times - Dubai News, UAE News, Gulf, News, Latest news, Arab news, Gulf News, Dubai Labour News"
+2026-09-05T14:56:45.900434+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,3,3.053,sec,PASS,https://www.khaleejtimes.com/,200,"Khaleej Times - Dubai News, UAE News, Gulf, News, Latest news, Arab news, Gulf News, Dubai Labour News"
+2026-09-05T14:57:30.921638+04:00,e& Mobile 5G,KPI-028,Transaction success,1,0,%,FAIL,https://www.eand.ae/ar/index.html,
+2026-09-05T14:58:06.880572+04:00,e& Mobile 5G,KPI-028,Transaction success,2,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T14:58:07.017926+04:00,e& Mobile 5G,KPI-028,Transaction success,3,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T15:10:42.073755+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,1,1.74,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T15:10:43.739126+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,2,1.64,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T15:10:45.440167+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,3,1.67,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T15:11:30.461763+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,1,,sec,FAIL,https://www.khaleejtimes.com/,,
+2026-09-05T15:11:34.209417+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,2,3.728,sec,PASS,https://www.khaleejtimes.com/,200,"Khaleej Times - Dubai News, UAE News, Gulf, News, Latest news, Arab news, Gulf News, Dubai Labour News"
+2026-09-05T15:11:36.805269+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,3,2.579,sec,PASS,https://www.khaleejtimes.com/,200,"Khaleej Times - Dubai News, UAE News, Gulf, News, Latest news, Arab news, Gulf News, Dubai Labour News"
+2026-09-05T15:11:36.957622+04:00,e& Mobile 5G,KPI-028,Transaction success,1,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T15:11:37.057642+04:00,e& Mobile 5G,KPI-028,Transaction success,2,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T15:11:37.178911+04:00,e& Mobile 5G,KPI-028,Transaction success,3,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T15:26:08.207592+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,1,1.701,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T15:26:09.845386+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,2,1.614,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T15:26:11.494294+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,3,1.617,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T15:26:56.513625+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,1,,sec,FAIL,https://www.khaleejtimes.com/,,
+2026-09-05T15:27:41.525626+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,2,,sec,FAIL,https://www.khaleejtimes.com/,,
+2026-09-05T15:28:26.550139+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,3,,sec,FAIL,https://www.khaleejtimes.com/,,
+2026-09-05T15:28:26.733877+04:00,e& Mobile 5G,KPI-028,Transaction success,1,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T15:28:26.827854+04:00,e& Mobile 5G,KPI-028,Transaction success,2,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T15:28:26.910914+04:00,e& Mobile 5G,KPI-028,Transaction success,3,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T15:41:31.942438+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,1,1.733,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T15:41:33.613083+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,2,1.647,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T15:41:35.309695+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,3,1.663,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T15:42:20.332744+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,1,,sec,FAIL,https://www.khaleejtimes.com/,,
+2026-09-05T15:42:23.599311+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,2,3.24,sec,PASS,https://www.khaleejtimes.com/,200,"Khaleej Times - Dubai News, UAE News, Gulf, News, Latest news, Arab news, Gulf News, Dubai Labour News"
+2026-09-05T15:42:26.183182+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,3,2.57,sec,PASS,https://www.khaleejtimes.com/,200,"Khaleej Times - Dubai News, UAE News, Gulf, News, Latest news, Arab news, Gulf News, Dubai Labour News"
+2026-09-05T15:42:26.304735+04:00,e& Mobile 5G,KPI-028,Transaction success,1,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T15:42:26.400222+04:00,e& Mobile 5G,KPI-028,Transaction success,2,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T15:42:26.577510+04:00,e& Mobile 5G,KPI-028,Transaction success,3,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T15:56:31.586947+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,1,1.713,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T15:56:33.253459+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,2,1.642,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T15:56:34.909275+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,3,1.626,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T15:57:19.927444+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,1,,sec,FAIL,https://www.khaleejtimes.com/,,
+2026-09-05T15:57:28.680315+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,2,8.741,sec,PASS,https://www.khaleejtimes.com/,200,"Khaleej Times - Dubai News, UAE News, Gulf, News, Latest news, Arab news, Gulf News, Dubai Labour News"
+2026-09-05T15:57:31.556261+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,3,2.863,sec,PASS,https://www.khaleejtimes.com/,200,"Khaleej Times - Dubai News, UAE News, Gulf, News, Latest news, Arab news, Gulf News, Dubai Labour News"
+2026-09-05T15:57:31.709357+04:00,e& Mobile 5G,KPI-028,Transaction success,1,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T15:57:31.821739+04:00,e& Mobile 5G,KPI-028,Transaction success,2,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T15:57:31.933258+04:00,e& Mobile 5G,KPI-028,Transaction success,3,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T16:11:36.766778+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,1,1.745,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T16:11:38.453147+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,2,1.66,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T16:11:40.110161+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,3,1.622,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T16:12:25.131126+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,1,,sec,FAIL,https://www.khaleejtimes.com/,,
+2026-09-05T16:12:35.449914+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,2,10.214,sec,PASS,https://www.khaleejtimes.com/,200,"Khaleej Times - Dubai News, UAE News, Gulf, News, Latest news, Arab news, Gulf News, Dubai Labour News"
+2026-09-05T16:12:38.194918+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,3,2.719,sec,PASS,https://www.khaleejtimes.com/,200,"Khaleej Times - Dubai News, UAE News, Gulf, News, Latest news, Arab news, Gulf News, Dubai Labour News"
+2026-09-05T16:12:38.350721+04:00,e& Mobile 5G,KPI-028,Transaction success,1,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T16:13:23.366838+04:00,e& Mobile 5G,KPI-028,Transaction success,2,0,%,FAIL,https://www.eand.ae/ar/index.html,
+2026-09-05T16:13:59.295551+04:00,e& Mobile 5G,KPI-028,Transaction success,3,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T16:26:59.077721+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,1,1.681,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T16:27:00.716634+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,2,1.615,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T16:27:02.358011+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,3,1.609,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T16:27:47.377779+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,1,,sec,FAIL,https://www.khaleejtimes.com/,,
+2026-09-05T16:28:32.390821+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,2,,sec,FAIL,https://www.khaleejtimes.com/,,
+2026-09-05T16:29:17.416781+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,3,,sec,FAIL,https://www.khaleejtimes.com/,,
+2026-09-05T16:29:17.560188+04:00,e& Mobile 5G,KPI-028,Transaction success,1,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T16:29:17.672861+04:00,e& Mobile 5G,KPI-028,Transaction success,2,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T16:29:17.777024+04:00,e& Mobile 5G,KPI-028,Transaction success,3,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T16:42:22.652627+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,1,1.719,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T16:42:24.307490+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,2,1.63,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T16:42:26.001831+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,3,1.662,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T16:43:11.022879+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,1,,sec,FAIL,https://www.khaleejtimes.com/,,
+2026-09-05T16:43:56.047647+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,2,,sec,FAIL,https://www.khaleejtimes.com/,,
+2026-09-05T16:44:41.072690+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,3,,sec,FAIL,https://www.khaleejtimes.com/,,
+2026-09-05T16:44:41.323345+04:00,e& Mobile 5G,KPI-028,Transaction success,1,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T16:44:41.434740+04:00,e& Mobile 5G,KPI-028,Transaction success,2,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T16:44:41.621643+04:00,e& Mobile 5G,KPI-028,Transaction success,3,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T16:57:46.564706+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,1,1.752,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T16:57:48.220629+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,2,1.642,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T16:57:49.885022+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,3,1.64,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T16:58:34.903957+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,1,,sec,FAIL,https://www.khaleejtimes.com/,,
+2026-09-05T16:59:07.953481+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,2,33.025,sec,PASS,https://www.khaleejtimes.com/,200,"Khaleej Times - Dubai News, UAE News, Gulf, News, Latest news, Arab news, Gulf News, Dubai Labour News"
+2026-09-05T16:59:52.967498+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,3,,sec,FAIL,https://www.khaleejtimes.com/,,
+2026-09-05T16:59:53.187399+04:00,e& Mobile 5G,KPI-028,Transaction success,1,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T16:59:53.562492+04:00,e& Mobile 5G,KPI-028,Transaction success,2,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T16:59:53.681547+04:00,e& Mobile 5G,KPI-028,Transaction success,3,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T17:12:58.491544+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,1,1.714,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T17:13:00.182480+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,2,1.678,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T17:13:01.824256+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,3,1.618,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T17:13:46.839468+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,1,,sec,FAIL,https://www.khaleejtimes.com/,,
+2026-09-05T17:13:50.097433+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,2,3.245,sec,PASS,https://www.khaleejtimes.com/,200,"Khaleej Times - Dubai News, UAE News, Gulf, News, Latest news, Arab news, Gulf News, Dubai Labour News"
+2026-09-05T17:13:52.890863+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,3,2.777,sec,PASS,https://www.khaleejtimes.com/,200,"Khaleej Times - Dubai News, UAE News, Gulf, News, Latest news, Arab news, Gulf News, Dubai Labour News"
+2026-09-05T17:13:53.026718+04:00,e& Mobile 5G,KPI-028,Transaction success,1,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T17:13:53.135532+04:00,e& Mobile 5G,KPI-028,Transaction success,2,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T17:13:53.246208+04:00,e& Mobile 5G,KPI-028,Transaction success,3,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T17:28:00.497506+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,1,1.713,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T17:28:02.139875+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,2,1.619,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T17:28:03.778220+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,3,1.608,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T17:28:08.265249+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,1,4.467,sec,PASS,https://www.khaleejtimes.com/,200,"Khaleej Times - Dubai News, UAE News, Gulf, News, Latest news, Arab news, Gulf News, Dubai Labour News"
+2026-09-05T17:28:53.280632+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,2,,sec,FAIL,https://www.khaleejtimes.com/,,
+2026-09-05T17:28:57.312624+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,3,4.01,sec,PASS,https://www.khaleejtimes.com/,200,"Khaleej Times - Dubai News, UAE News, Gulf, News, Latest news, Arab news, Gulf News, Dubai Labour News"
+2026-09-05T17:28:57.418291+04:00,e& Mobile 5G,KPI-028,Transaction success,1,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T17:28:57.515686+04:00,e& Mobile 5G,KPI-028,Transaction success,2,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T17:28:57.615120+04:00,e& Mobile 5G,KPI-028,Transaction success,3,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T17:43:02.621180+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,1,1.693,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T17:43:04.252516+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,2,1.612,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T17:43:05.916026+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,3,1.637,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T17:43:50.932576+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,1,,sec,FAIL,https://www.khaleejtimes.com/,,
+2026-09-05T17:43:54.725145+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,2,3.751,sec,PASS,https://www.khaleejtimes.com/,200,"Khaleej Times - Dubai News, UAE News, Gulf, News, Latest news, Arab news, Gulf News, Dubai Labour News"
+2026-09-05T17:43:57.863108+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,3,3.109,sec,PASS,https://www.khaleejtimes.com/,200,"Khaleej Times - Dubai News, UAE News, Gulf, News, Latest news, Arab news, Gulf News, Dubai Labour News"
+2026-09-05T17:43:58.009567+04:00,e& Mobile 5G,KPI-028,Transaction success,1,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T17:43:58.143006+04:00,e& Mobile 5G,KPI-028,Transaction success,2,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T17:43:58.252831+04:00,e& Mobile 5G,KPI-028,Transaction success,3,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T17:58:05.944501+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,1,1.837,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T17:58:07.695828+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,2,1.711,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T17:58:09.452047+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,3,1.715,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T17:58:16.198151+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,1,6.692,sec,PASS,https://www.khaleejtimes.com/,200,"Khaleej Times - Dubai News, UAE News, Gulf, News, Latest news, Arab news, Gulf News, Dubai Labour News"
+2026-09-05T17:59:01.243428+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,2,,sec,FAIL,https://www.khaleejtimes.com/,,
+2026-09-05T17:59:05.312275+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,3,4.046,sec,PASS,https://www.khaleejtimes.com/,200,"Khaleej Times - Dubai News, UAE News, Gulf, News, Latest news, Arab news, Gulf News, Dubai Labour News"
+2026-09-05T17:59:05.518759+04:00,e& Mobile 5G,KPI-028,Transaction success,1,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T17:59:05.644686+04:00,e& Mobile 5G,KPI-028,Transaction success,2,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T17:59:05.788778+04:00,e& Mobile 5G,KPI-028,Transaction success,3,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T18:13:13.006837+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,1,1.8,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T18:13:14.741812+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,2,1.692,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T18:13:16.474538+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,3,1.693,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T18:14:01.512539+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,1,,sec,FAIL,https://www.khaleejtimes.com/,,
+2026-09-05T18:14:46.551459+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,2,,sec,FAIL,https://www.khaleejtimes.com/,,
+2026-09-05T18:14:54.600783+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,3,8.0,sec,PASS,https://www.khaleejtimes.com/,200,"Khaleej Times - Dubai News, UAE News, Gulf, News, Latest news, Arab news, Gulf News, Dubai Labour News"
+2026-09-05T18:14:54.783034+04:00,e& Mobile 5G,KPI-028,Transaction success,1,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T18:14:54.956261+04:00,e& Mobile 5G,KPI-028,Transaction success,2,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T18:15:06.875260+04:00,e& Mobile 5G,KPI-028,Transaction success,3,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T18:28:31.897290+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,1,1.686,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T18:28:33.539603+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,2,1.618,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T18:28:35.189241+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,3,1.616,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T18:29:20.211085+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,1,,sec,FAIL,https://www.khaleejtimes.com/,,
+2026-09-05T18:30:05.233474+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,2,,sec,FAIL,https://www.khaleejtimes.com/,,
+2026-09-05T18:30:50.258243+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,3,,sec,FAIL,https://www.khaleejtimes.com/,,
+2026-09-05T18:30:50.435921+04:00,e& Mobile 5G,KPI-028,Transaction success,1,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T18:30:50.527190+04:00,e& Mobile 5G,KPI-028,Transaction success,2,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T18:30:50.619351+04:00,e& Mobile 5G,KPI-028,Transaction success,3,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T18:43:56.859837+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,1,1.762,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T18:43:58.552059+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,2,1.642,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T18:44:00.222286+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,3,1.64,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T18:44:45.246338+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,1,,sec,FAIL,https://www.khaleejtimes.com/,,
+2026-09-05T18:44:48.874657+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,2,3.582,sec,PASS,https://www.khaleejtimes.com/,200,"Khaleej Times - Dubai News, UAE News, Gulf, News, Latest news, Arab news, Gulf News, Dubai Labour News"
+2026-09-05T18:44:52.049198+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,3,3.15,sec,PASS,https://www.khaleejtimes.com/,200,"Khaleej Times - Dubai News, UAE News, Gulf, News, Latest news, Arab news, Gulf News, Dubai Labour News"
+2026-09-05T18:44:52.272384+04:00,e& Mobile 5G,KPI-028,Transaction success,1,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T18:44:52.409297+04:00,e& Mobile 5G,KPI-028,Transaction success,2,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T18:44:52.541382+04:00,e& Mobile 5G,KPI-028,Transaction success,3,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T18:58:57.493263+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,1,1.789,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T18:58:59.150406+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,2,1.632,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T18:59:00.849321+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,3,1.666,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T18:59:45.873624+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,1,,sec,FAIL,https://www.khaleejtimes.com/,,
+2026-09-05T19:00:30.897115+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,2,,sec,FAIL,https://www.khaleejtimes.com/,,
+2026-09-05T19:01:15.910941+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,3,,sec,FAIL,https://www.khaleejtimes.com/,,
+2026-09-05T19:01:16.076880+04:00,e& Mobile 5G,KPI-028,Transaction success,1,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T19:01:16.204365+04:00,e& Mobile 5G,KPI-028,Transaction success,2,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T19:01:16.334998+04:00,e& Mobile 5G,KPI-028,Transaction success,3,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T19:14:21.388388+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,1,1.708,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T19:14:23.079488+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,2,1.669,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T19:14:24.742341+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,3,1.635,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T19:15:09.762150+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,1,,sec,FAIL,https://www.khaleejtimes.com/,,
+2026-09-05T19:15:54.778687+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,2,,sec,FAIL,https://www.khaleejtimes.com/,,
+2026-09-05T19:16:39.805262+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,3,,sec,FAIL,https://www.khaleejtimes.com/,,
+2026-09-05T19:16:40.237234+04:00,e& Mobile 5G,KPI-028,Transaction success,1,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T19:16:40.361021+04:00,e& Mobile 5G,KPI-028,Transaction success,2,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T19:16:40.464065+04:00,e& Mobile 5G,KPI-028,Transaction success,3,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T19:29:32.628543+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,1,1.708,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T19:29:34.272022+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,2,1.619,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T19:29:35.929759+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,3,1.626,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T19:30:20.953256+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,1,,sec,FAIL,https://www.khaleejtimes.com/,,
+2026-09-05T19:30:34.495061+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,2,13.506,sec,PASS,https://www.khaleejtimes.com/,200,"Khaleej Times - Dubai News, UAE News, Gulf, News, Latest news, Arab news, Gulf News, Dubai Labour News"
+2026-09-05T19:30:37.563816+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,3,3.039,sec,PASS,https://www.khaleejtimes.com/,200,"Khaleej Times - Dubai News, UAE News, Gulf, News, Latest news, Arab news, Gulf News, Dubai Labour News"
+2026-09-05T19:30:37.712393+04:00,e& Mobile 5G,KPI-028,Transaction success,1,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T19:30:37.812024+04:00,e& Mobile 5G,KPI-028,Transaction success,2,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T19:30:37.908274+04:00,e& Mobile 5G,KPI-028,Transaction success,3,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T19:44:43.155419+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,1,1.767,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T19:44:44.839629+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,2,1.667,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T19:44:46.502230+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,3,1.633,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T19:45:31.534169+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,1,,sec,FAIL,https://www.khaleejtimes.com/,,
+2026-09-05T19:45:42.929172+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,2,11.359,sec,PASS,https://www.khaleejtimes.com/,200,"Khaleej Times - Dubai News, UAE News, Gulf, News, Latest news, Arab news, Gulf News, Dubai Labour News"
+2026-09-05T19:45:46.216645+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,3,3.26,sec,PASS,https://www.khaleejtimes.com/,200,"Khaleej Times - Dubai News, UAE News, Gulf, News, Latest news, Arab news, Gulf News, Dubai Labour News"
+2026-09-05T19:45:46.378119+04:00,e& Mobile 5G,KPI-028,Transaction success,1,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T19:45:46.530525+04:00,e& Mobile 5G,KPI-028,Transaction success,2,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T19:45:46.670855+04:00,e& Mobile 5G,KPI-028,Transaction success,3,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T19:59:51.469522+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,1,1.722,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T19:59:53.138285+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,2,1.645,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T19:59:54.819900+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,3,1.648,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T20:00:39.842755+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,1,,sec,FAIL,https://www.khaleejtimes.com/,,
+2026-09-05T20:00:43.158715+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,2,3.297,sec,PASS,https://www.khaleejtimes.com/,200,"Khaleej Times - Dubai News, UAE News, Gulf, News, Latest news, Arab news, Gulf News, Dubai Labour News"
+2026-09-05T20:00:45.828220+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,3,2.657,sec,PASS,https://www.khaleejtimes.com/,200,"Khaleej Times - Dubai News, UAE News, Gulf, News, Latest news, Arab news, Gulf News, Dubai Labour News"
+2026-09-05T20:00:45.978506+04:00,e& Mobile 5G,KPI-028,Transaction success,1,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T20:00:46.113911+04:00,e& Mobile 5G,KPI-028,Transaction success,2,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T20:00:46.239585+04:00,e& Mobile 5G,KPI-028,Transaction success,3,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T20:14:51.210674+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,1,1.744,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T20:14:52.889881+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,2,1.656,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T20:14:54.556898+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,3,1.633,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T20:15:39.589072+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,1,,sec,FAIL,https://www.khaleejtimes.com/,,
+2026-09-05T20:15:42.717215+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,2,3.095,sec,PASS,https://www.khaleejtimes.com/,200,"Khaleej Times - Dubai News, UAE News, Gulf, News, Latest news, Arab news, Gulf News, Dubai Labour News"
+2026-09-05T20:15:45.450119+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,3,2.711,sec,PASS,https://www.khaleejtimes.com/,200,"Khaleej Times - Dubai News, UAE News, Gulf, News, Latest news, Arab news, Gulf News, Dubai Labour News"
+2026-09-05T20:15:45.590830+04:00,e& Mobile 5G,KPI-028,Transaction success,1,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T20:15:45.721821+04:00,e& Mobile 5G,KPI-028,Transaction success,2,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T20:15:45.839855+04:00,e& Mobile 5G,KPI-028,Transaction success,3,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T20:30:10.811629+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,1,1.707,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T20:30:12.463202+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,2,1.627,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T20:30:14.117633+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,3,1.623,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T20:30:59.140932+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,1,,sec,FAIL,https://www.khaleejtimes.com/,,
+2026-09-05T20:31:02.455981+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,2,3.285,sec,PASS,https://www.khaleejtimes.com/,200,"Khaleej Times - Dubai News, UAE News, Gulf, News, Latest news, Arab news, Gulf News, Dubai Labour News"
+2026-09-05T20:31:05.578265+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,3,3.096,sec,PASS,https://www.khaleejtimes.com/,200,"Khaleej Times - Dubai News, UAE News, Gulf, News, Latest news, Arab news, Gulf News, Dubai Labour News"
+2026-09-05T20:31:05.951778+04:00,e& Mobile 5G,KPI-028,Transaction success,1,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T20:31:06.053906+04:00,e& Mobile 5G,KPI-028,Transaction success,2,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T20:31:06.149654+04:00,e& Mobile 5G,KPI-028,Transaction success,3,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T20:45:11.134572+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,1,1.749,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T20:45:12.782937+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,2,1.624,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T20:45:14.472471+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,3,1.657,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T20:45:59.494171+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,1,,sec,FAIL,https://www.khaleejtimes.com/,,
+2026-09-05T20:46:02.716609+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,2,3.192,sec,PASS,https://www.khaleejtimes.com/,200,"Khaleej Times - Dubai News, UAE News, Gulf, News, Latest news, Arab news, Gulf News, Dubai Labour News"
+2026-09-05T20:46:05.749448+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,3,3.009,sec,PASS,https://www.khaleejtimes.com/,200,"Khaleej Times - Dubai News, UAE News, Gulf, News, Latest news, Arab news, Gulf News, Dubai Labour News"
+2026-09-05T20:46:06.005178+04:00,e& Mobile 5G,KPI-028,Transaction success,1,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T20:46:06.204638+04:00,e& Mobile 5G,KPI-028,Transaction success,2,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T20:46:06.344096+04:00,e& Mobile 5G,KPI-028,Transaction success,3,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T21:00:11.612760+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,1,1.801,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T21:00:13.311273+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,2,1.674,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T21:00:14.973731+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,3,1.632,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T21:00:59.995220+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,1,,sec,FAIL,https://www.khaleejtimes.com/,,
+2026-09-05T21:01:08.754885+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,2,8.733,sec,PASS,https://www.khaleejtimes.com/,200,"Khaleej Times - Dubai News, UAE News, Gulf, News, Latest news, Arab news, Gulf News, Dubai Labour News"
+2026-09-05T21:01:12.132009+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,3,3.354,sec,PASS,https://www.khaleejtimes.com/,200,"Khaleej Times - Dubai News, UAE News, Gulf, News, Latest news, Arab news, Gulf News, Dubai Labour News"
+2026-09-05T21:01:12.284245+04:00,e& Mobile 5G,KPI-028,Transaction success,1,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T21:01:12.401126+04:00,e& Mobile 5G,KPI-028,Transaction success,2,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T21:01:12.525895+04:00,e& Mobile 5G,KPI-028,Transaction success,3,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T21:15:17.525016+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,1,1.766,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T21:15:19.212037+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,2,1.666,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T21:15:20.896088+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,3,1.653,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T21:16:05.917511+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,1,,sec,FAIL,https://www.khaleejtimes.com/,,
+2026-09-05T21:16:10.254285+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,2,4.296,sec,PASS,https://www.khaleejtimes.com/,200,"Khaleej Times - Dubai News, UAE News, Gulf, News, Latest news, Arab news, Gulf News, Dubai Labour News"
+2026-09-05T21:16:12.998802+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,3,2.715,sec,PASS,https://www.khaleejtimes.com/,200,"Khaleej Times - Dubai News, UAE News, Gulf, News, Latest news, Arab news, Gulf News, Dubai Labour News"
+2026-09-05T21:16:58.016017+04:00,e& Mobile 5G,KPI-028,Transaction success,1,0,%,FAIL,https://www.eand.ae/ar/index.html,
+2026-09-05T21:17:43.034595+04:00,e& Mobile 5G,KPI-028,Transaction success,2,0,%,FAIL,https://www.eand.ae/ar/index.html,
+2026-09-05T21:17:43.183811+04:00,e& Mobile 5G,KPI-028,Transaction success,3,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T21:30:38.956120+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,1,1.728,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T21:30:40.594693+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,2,1.614,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T21:30:42.244415+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,3,1.615,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T21:30:47.186678+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,1,4.914,sec,PASS,https://www.khaleejtimes.com/,200,"Khaleej Times - Dubai News, UAE News, Gulf, News, Latest news, Arab news, Gulf News, Dubai Labour News"
+2026-09-05T21:30:49.835069+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,2,2.638,sec,PASS,https://www.khaleejtimes.com/,200,"Khaleej Times - Dubai News, UAE News, Gulf, News, Latest news, Arab news, Gulf News, Dubai Labour News"
+2026-09-05T21:31:34.851272+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,3,,sec,FAIL,https://www.khaleejtimes.com/,,
+2026-09-05T21:31:35.021256+04:00,e& Mobile 5G,KPI-028,Transaction success,1,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T21:31:35.130123+04:00,e& Mobile 5G,KPI-028,Transaction success,2,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T21:31:35.225897+04:00,e& Mobile 5G,KPI-028,Transaction success,3,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T21:45:40.231023+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,1,1.738,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T21:45:41.913380+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,2,1.657,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T21:45:43.569527+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,3,1.627,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T21:46:28.584850+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,1,,sec,FAIL,https://www.khaleejtimes.com/,,
+2026-09-05T21:46:32.592140+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,2,3.939,sec,PASS,https://www.khaleejtimes.com/,200,"Khaleej Times - Dubai News, UAE News, Gulf, News, Latest news, Arab news, Gulf News, Dubai Labour News"
+2026-09-05T21:46:36.745227+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,3,4.139,sec,PASS,https://www.khaleejtimes.com/,200,"Khaleej Times - Dubai News, UAE News, Gulf, News, Latest news, Arab news, Gulf News, Dubai Labour News"
+2026-09-05T21:46:36.904598+04:00,e& Mobile 5G,KPI-028,Transaction success,1,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T21:46:37.026989+04:00,e& Mobile 5G,KPI-028,Transaction success,2,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T21:46:37.434282+04:00,e& Mobile 5G,KPI-028,Transaction success,3,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T22:00:42.426778+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,1,1.743,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T22:00:44.082352+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,2,1.641,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T22:00:45.733667+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,3,1.626,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T22:01:30.757598+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,1,,sec,FAIL,https://www.khaleejtimes.com/,,
+2026-09-05T22:01:34.399652+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,2,3.613,sec,PASS,https://www.khaleejtimes.com/,200,"Khaleej Times - Dubai News, UAE News, Gulf, News, Latest news, Arab news, Gulf News, Dubai Labour News"
+2026-09-05T22:01:37.464628+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,3,3.044,sec,PASS,https://www.khaleejtimes.com/,200,"Khaleej Times - Dubai News, UAE News, Gulf, News, Latest news, Arab news, Gulf News, Dubai Labour News"
+2026-09-05T22:01:37.654944+04:00,e& Mobile 5G,KPI-028,Transaction success,1,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T22:01:37.795210+04:00,e& Mobile 5G,KPI-028,Transaction success,2,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T22:01:37.911440+04:00,e& Mobile 5G,KPI-028,Transaction success,3,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T22:15:42.991352+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,1,1.737,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T22:15:44.667538+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,2,1.648,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T22:15:46.357807+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,3,1.656,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T22:15:51.082882+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,1,4.706,sec,PASS,https://www.khaleejtimes.com/,200,"Khaleej Times - Dubai News, UAE News, Gulf, News, Latest news, Arab news, Gulf News, Dubai Labour News"
+2026-09-05T22:16:36.099291+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,2,,sec,FAIL,https://www.khaleejtimes.com/,,
+2026-09-05T22:16:39.424087+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,3,3.299,sec,PASS,https://www.khaleejtimes.com/,200,"Khaleej Times - Dubai News, UAE News, Gulf, News, Latest news, Arab news, Gulf News, Dubai Labour News"
+2026-09-05T22:16:39.550046+04:00,e& Mobile 5G,KPI-028,Transaction success,1,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T22:16:39.685586+04:00,e& Mobile 5G,KPI-028,Transaction success,2,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T22:16:39.826083+04:00,e& Mobile 5G,KPI-028,Transaction success,3,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T22:31:03.897093+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,1,1.708,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T22:31:05.559584+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,2,1.638,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T22:31:07.256154+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,3,1.663,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T22:31:52.277329+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,1,,sec,FAIL,https://www.khaleejtimes.com/,,
+2026-09-05T22:31:56.321689+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,2,4.015,sec,PASS,https://www.khaleejtimes.com/,200,"Khaleej Times - Dubai News, UAE News, Gulf, News, Latest news, Arab news, Gulf News, Dubai Labour News"
+2026-09-05T22:31:59.238188+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,3,2.894,sec,PASS,https://www.khaleejtimes.com/,200,"Khaleej Times - Dubai News, UAE News, Gulf, News, Latest news, Arab news, Gulf News, Dubai Labour News"
+2026-09-05T22:31:59.369089+04:00,e& Mobile 5G,KPI-028,Transaction success,1,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T22:31:59.485356+04:00,e& Mobile 5G,KPI-028,Transaction success,2,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T22:31:59.607076+04:00,e& Mobile 5G,KPI-028,Transaction success,3,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T22:46:04.809873+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,1,1.757,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T22:46:06.476891+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,2,1.643,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T22:46:08.180226+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,3,1.67,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T22:46:53.204310+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,1,,sec,FAIL,https://www.khaleejtimes.com/,,
+2026-09-05T22:46:59.206877+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,2,5.983,sec,PASS,https://www.khaleejtimes.com/,200,"Khaleej Times - Dubai News, UAE News, Gulf, News, Latest news, Arab news, Gulf News, Dubai Labour News"
+2026-09-05T22:47:02.226620+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,3,2.992,sec,PASS,https://www.khaleejtimes.com/,200,"Khaleej Times - Dubai News, UAE News, Gulf, News, Latest news, Arab news, Gulf News, Dubai Labour News"
+2026-09-05T22:47:02.404038+04:00,e& Mobile 5G,KPI-028,Transaction success,1,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T22:47:02.537678+04:00,e& Mobile 5G,KPI-028,Transaction success,2,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T22:47:02.668125+04:00,e& Mobile 5G,KPI-028,Transaction success,3,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T23:01:07.781816+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,1,1.722,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T23:01:09.445273+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,2,1.639,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T23:01:11.137111+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,3,1.66,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T23:01:56.154810+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,1,,sec,FAIL,https://www.khaleejtimes.com/,,
+2026-09-05T23:01:59.473460+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,2,3.249,sec,PASS,https://www.khaleejtimes.com/,200,"Khaleej Times - Dubai News, UAE News, Gulf, News, Latest news, Arab news, Gulf News, Dubai Labour News"
+2026-09-05T23:02:02.461350+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,3,2.96,sec,PASS,https://www.khaleejtimes.com/,200,"Khaleej Times - Dubai News, UAE News, Gulf, News, Latest news, Arab news, Gulf News, Dubai Labour News"
+2026-09-05T23:02:02.617458+04:00,e& Mobile 5G,KPI-028,Transaction success,1,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T23:02:02.759070+04:00,e& Mobile 5G,KPI-028,Transaction success,2,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T23:02:02.894451+04:00,e& Mobile 5G,KPI-028,Transaction success,3,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T23:16:07.934543+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,1,1.787,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T23:16:09.619779+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,2,1.66,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T23:16:11.273559+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,3,1.621,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T23:16:56.296305+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,1,,sec,FAIL,https://www.khaleejtimes.com/,,
+2026-09-05T23:16:59.955537+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,2,3.644,sec,PASS,https://www.khaleejtimes.com/,200,"Khaleej Times - Dubai News, UAE News, Gulf, News, Latest news, Arab news, Gulf News, Dubai Labour News"
+2026-09-05T23:17:02.773203+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,3,2.801,sec,PASS,https://www.khaleejtimes.com/,200,"Khaleej Times - Dubai News, UAE News, Gulf, News, Latest news, Arab news, Gulf News, Dubai Labour News"
+2026-09-05T23:17:02.946324+04:00,e& Mobile 5G,KPI-028,Transaction success,1,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T23:17:03.067084+04:00,e& Mobile 5G,KPI-028,Transaction success,2,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T23:17:03.202281+04:00,e& Mobile 5G,KPI-028,Transaction success,3,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T23:31:32.091324+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,1,1.7,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T23:31:33.728105+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,2,1.613,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T23:31:35.390291+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,3,1.632,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T23:32:20.408476+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,1,,sec,FAIL,https://www.khaleejtimes.com/,,
+2026-09-05T23:32:24.140867+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,2,3.72,sec,PASS,https://www.khaleejtimes.com/,200,"Khaleej Times - Dubai News, UAE News, Gulf, News, Latest news, Arab news, Gulf News, Dubai Labour News"
+2026-09-05T23:32:26.587372+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,3,2.427,sec,PASS,https://www.khaleejtimes.com/,200,"Khaleej Times - Dubai News, UAE News, Gulf, News, Latest news, Arab news, Gulf News, Dubai Labour News"
+2026-09-05T23:32:26.710616+04:00,e& Mobile 5G,KPI-028,Transaction success,1,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T23:32:26.818045+04:00,e& Mobile 5G,KPI-028,Transaction success,2,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T23:32:26.918707+04:00,e& Mobile 5G,KPI-028,Transaction success,3,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T23:46:32.207818+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,1,1.769,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T23:46:33.887009+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,2,1.655,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T23:46:35.564200+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,3,1.651,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-05T23:47:20.585110+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,1,,sec,FAIL,https://www.khaleejtimes.com/,,
+2026-09-05T23:47:24.167770+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,2,3.553,sec,PASS,https://www.khaleejtimes.com/,200,"Khaleej Times - Dubai News, UAE News, Gulf, News, Latest news, Arab news, Gulf News, Dubai Labour News"
+2026-09-05T23:47:26.683154+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,3,2.495,sec,PASS,https://www.khaleejtimes.com/,200,"Khaleej Times - Dubai News, UAE News, Gulf, News, Latest news, Arab news, Gulf News, Dubai Labour News"
+2026-09-05T23:47:26.819447+04:00,e& Mobile 5G,KPI-028,Transaction success,1,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T23:47:26.946385+04:00,e& Mobile 5G,KPI-028,Transaction success,2,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-05T23:47:27.065990+04:00,e& Mobile 5G,KPI-028,Transaction success,3,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-06T00:01:32.207451+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,1,1.755,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-06T00:01:33.882555+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,2,1.653,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-06T00:01:35.534263+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,3,1.628,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-06T00:02:20.550886+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,1,,sec,FAIL,https://www.khaleejtimes.com/,,
+2026-09-06T00:02:24.315466+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,2,3.741,sec,PASS,https://www.khaleejtimes.com/,200,"Khaleej Times - Dubai News, UAE News, Gulf, News, Latest news, Arab news, Gulf News, Dubai Labour News"
+2026-09-06T00:02:27.143697+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,3,2.8,sec,PASS,https://www.khaleejtimes.com/,200,"Khaleej Times - Dubai News, UAE News, Gulf, News, Latest news, Arab news, Gulf News, Dubai Labour News"
+2026-09-06T00:02:27.293182+04:00,e& Mobile 5G,KPI-028,Transaction success,1,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-06T00:02:27.430446+04:00,e& Mobile 5G,KPI-028,Transaction success,2,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-06T00:02:27.560861+04:00,e& Mobile 5G,KPI-028,Transaction success,3,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-06T00:16:32.359165+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,1,1.739,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-06T00:16:34.026345+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,2,1.653,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-06T00:16:35.710126+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,3,1.656,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-06T00:17:20.727475+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,1,,sec,FAIL,https://www.khaleejtimes.com/,,
+2026-09-06T00:17:24.075974+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,2,3.329,sec,PASS,https://www.khaleejtimes.com/,200,"Khaleej Times - Dubai News, UAE News, Gulf, News, Latest news, Arab news, Gulf News, Dubai Labour News"
+2026-09-06T00:17:27.001995+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,3,2.901,sec,PASS,https://www.khaleejtimes.com/,200,"Khaleej Times - Dubai News, UAE News, Gulf, News, Latest news, Arab news, Gulf News, Dubai Labour News"
+2026-09-06T00:17:27.145695+04:00,e& Mobile 5G,KPI-028,Transaction success,1,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-06T00:17:27.266110+04:00,e& Mobile 5G,KPI-028,Transaction success,2,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-06T00:17:27.476109+04:00,e& Mobile 5G,KPI-028,Transaction success,3,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-06T00:31:55.186412+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,1,1.713,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-06T00:31:56.822881+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,2,1.614,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-06T00:31:58.465792+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,3,1.612,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-06T00:32:43.484068+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,1,,sec,FAIL,https://www.khaleejtimes.com/,,
+2026-09-06T00:32:47.095219+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,2,3.593,sec,PASS,https://www.khaleejtimes.com/,200,"Khaleej Times - Dubai News, UAE News, Gulf, News, Latest news, Arab news, Gulf News, Dubai Labour News"
+2026-09-06T00:32:49.824476+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,3,2.714,sec,PASS,https://www.khaleejtimes.com/,200,"Khaleej Times - Dubai News, UAE News, Gulf, News, Latest news, Arab news, Gulf News, Dubai Labour News"
+2026-09-06T00:32:49.952137+04:00,e& Mobile 5G,KPI-028,Transaction success,1,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-06T00:32:50.057099+04:00,e& Mobile 5G,KPI-028,Transaction success,2,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-06T00:32:50.153365+04:00,e& Mobile 5G,KPI-028,Transaction success,3,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-06T00:46:55.010525+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,1,1.71,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-06T00:46:56.655800+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,2,1.624,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-06T00:46:58.364306+04:00,e& Mobile 5G,KPI-027,Browser full page load - eand.ae,3,1.678,sec,PASS,https://www.eand.ae/ar/index.html,200,Request Rejected
+2026-09-06T00:47:43.383772+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,1,,sec,FAIL,https://www.khaleejtimes.com/,,
+2026-09-06T00:47:46.515898+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,2,3.109,sec,PASS,https://www.khaleejtimes.com/,200,"Khaleej Times - Dubai News, UAE News, Gulf, News, Latest news, Arab news, Gulf News, Dubai Labour News"
+2026-09-06T00:47:49.344165+04:00,e& Mobile 5G,KPI-029,Browser full page load - khaleejtimes.com,3,2.804,sec,PASS,https://www.khaleejtimes.com/,200,"Khaleej Times - Dubai News, UAE News, Gulf, News, Latest news, Arab news, Gulf News, Dubai Labour News"
+2026-09-06T00:47:49.496437+04:00,e& Mobile 5G,KPI-028,Transaction success,1,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-06T00:47:49.618214+04:00,e& Mobile 5G,KPI-028,Transaction success,2,100,%,PASS,https://www.eand.ae/ar/index.html,
+2026-09-06T00:47:49.728157+04:00,e& Mobile 5G,KPI-028,Transaction success,3,100,%,PASS,https://www.eand.ae/ar/index.html,
